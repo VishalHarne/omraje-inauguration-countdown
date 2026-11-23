@@ -1,0 +1,8 @@
+{
+  "name": "omraje-inauguration-countdown",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}

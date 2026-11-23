@@ -1,0 +1,4 @@
+node_modules/
+.tsupgrader/
+.env
+.env.*
