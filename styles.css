@@ -105,17 +105,6 @@ a {
   outline-offset: 4px;
 }
 
-.brand-mark {
-  display: grid;
-  width: 42px;
-  height: 42px;
-  place-items: center;
-  border: 1px solid rgba(229, 183, 103, .65);
-  border-radius: 50%;
-  color: #edc277;
-  font: 24px/1 "DM Sans", sans-serif;
-}
-
 .brand-name {
   display: grid;
   gap: 4px;
